@@ -9,6 +9,7 @@ import BotPackages from '../components/botPackage';
 import DappPackages from '../components/dappPackage';
 import AOS from 'aos';
 import "aos/dist/aos.css";
+import Members from '../components/Members';
 
 export default function Home() {
 
@@ -44,7 +45,8 @@ export default function Home() {
             <InfoSection {...homeObjOne} />
             <DappPackages />
             <BotPackages />
-            <InfoSection {...homeObjThree} />
+            {/* <InfoSection {...homeObjThree} /> */}
+            <Members />
             <Footer />
         </>
     )

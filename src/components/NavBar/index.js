@@ -54,7 +54,7 @@ export default function Navbar({ toggle }) {
                             <NavLinks to="botPackage" smooth={true} duration={500} spy={true} offset={-80}>BOT Package</NavLinks>
                         </NavItem>
                         <NavItem>
-                            <NavLinks to="aboutUs" smooth={true} duration={500} spy={true} offset={-80}>About Us</NavLinks>
+                            <NavLinks to="team" smooth={true} duration={500} spy={true} offset={-80}>Team</NavLinks>
                         </NavItem>
                     </NavMenu>
                     { (user.id == '') ? 
