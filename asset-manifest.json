@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SmartAggregator_FrontEnd/static/css/main.b398906d.css",
-    "main.js": "/SmartAggregator_FrontEnd/static/js/main.c6093bce.js",
+    "main.js": "/SmartAggregator_FrontEnd/static/js/main.81987b64.js",
     "static/media/video.mp4": "/SmartAggregator_FrontEnd/static/media/video.f9e7e3288955f7832239.mp4",
     "static/media/unicorn_edited.png": "/SmartAggregator_FrontEnd/static/media/unicorn_edited.94a3ec490bdc845bd467.png",
     "static/media/warning.svg": "/SmartAggregator_FrontEnd/static/media/warning.c2eb0b0816dcb9d103a2d87914638f29.svg",
@@ -13,10 +13,10 @@
     "static/media/happy_balloon.svg": "/SmartAggregator_FrontEnd/static/media/happy_balloon.daae05783f76fb92063d4d50c2fb5c21.svg",
     "index.html": "/SmartAggregator_FrontEnd/index.html",
     "main.b398906d.css.map": "/SmartAggregator_FrontEnd/static/css/main.b398906d.css.map",
-    "main.c6093bce.js.map": "/SmartAggregator_FrontEnd/static/js/main.c6093bce.js.map"
+    "main.81987b64.js.map": "/SmartAggregator_FrontEnd/static/js/main.81987b64.js.map"
   },
   "entrypoints": [
     "static/css/main.b398906d.css",
-    "static/js/main.c6093bce.js"
+    "static/js/main.81987b64.js"
   ]
 }
